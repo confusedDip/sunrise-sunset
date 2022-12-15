@@ -1,3 +1,4 @@
+"""Program to Check Sunrise, Sunset times using API"""
 import requests
 import datetime
 
